@@ -7,7 +7,7 @@
 <body>
 <h1>Hardware & Software Integrated Solution </h1>
 <p> I am salahuddin </p>
-<p> I am salahuddin </p>
+<p> Pacific Associates Ltd. </p>
 </body>
 </html>
 
